@@ -24,7 +24,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: "https://currency-converter-backend-gn9r.vercel.app",
+      url: "https://currency-converter-backend-six.vercel.app",
     },
   ],
   paths: { ...currencyDocumentation },
